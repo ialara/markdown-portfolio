@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a PRGS student with an emphasis on **Operations Research**, including applications of _Machine Learning_ and _Data Science_ techniques.
